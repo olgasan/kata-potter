@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PotterLibTest\PromotionPackTests.cs">
+    <Files>
+      <File FileName="PotterLib\BasketCalculator.cs" Line="1" Column="1" />
+      <File FileName="PotterLibTest\BasketCalculatorTest.cs" Line="1" Column="1" />
+      <File FileName="PotterLibTest\PromotionPackTests.cs" Line="68" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="PotterApplication" expanded="True" />
+          <Node name="PotterLib" expanded="True" />
+          <Node name="PotterLibTest" expanded="True">
+            <Node name="PromotionPackTests.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="PotterLibTest" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

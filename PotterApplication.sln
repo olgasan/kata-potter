@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotterApplication", "PotterApplication\PotterApplication.csproj", "{66DB8686-090C-4577-B8F8-8791D823629F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotterLib", "PotterLib\PotterLib.csproj", "{1D1EC4AF-285A-4B35-BF48-C3AF863203AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotterLibTest", "PotterLibTest\PotterLibTest.csproj", "{7B87C783-3C35-421F-80EB-5B16891A0860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D1EC4AF-285A-4B35-BF48-C3AF863203AE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1D1EC4AF-285A-4B35-BF48-C3AF863203AE}.Debug|x86.Build.0 = Debug|Any CPU
+		{1D1EC4AF-285A-4B35-BF48-C3AF863203AE}.Release|x86.ActiveCfg = Release|Any CPU
+		{1D1EC4AF-285A-4B35-BF48-C3AF863203AE}.Release|x86.Build.0 = Release|Any CPU
+		{66DB8686-090C-4577-B8F8-8791D823629F}.Debug|x86.ActiveCfg = Debug|x86
+		{66DB8686-090C-4577-B8F8-8791D823629F}.Debug|x86.Build.0 = Debug|x86
+		{66DB8686-090C-4577-B8F8-8791D823629F}.Release|x86.ActiveCfg = Release|x86
+		{66DB8686-090C-4577-B8F8-8791D823629F}.Release|x86.Build.0 = Release|x86
+		{7B87C783-3C35-421F-80EB-5B16891A0860}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7B87C783-3C35-421F-80EB-5B16891A0860}.Debug|x86.Build.0 = Debug|Any CPU
+		{7B87C783-3C35-421F-80EB-5B16891A0860}.Release|x86.ActiveCfg = Release|Any CPU
+		{7B87C783-3C35-421F-80EB-5B16891A0860}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PotterApplication\PotterApplication.csproj
+	EndGlobalSection
+EndGlobal
